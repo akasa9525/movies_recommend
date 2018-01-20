@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jackson-core-asl-1.8.5.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jackson-mapper-asl-1.8.5 (1).jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/javax.el-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/javax.servlet.jsp.jstl-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/javax.servlet.jsp-2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/javax.servlet.jsp-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/javax.websocket-api-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jetty-annotations-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jetty-http-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jetty-io-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jetty-server-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/jetty-util-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/mongo-java-driver-2.11.3.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/websocket-api-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/websocket-common-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/websocket-server-9.2.5.v20141112.jar"/>
+	<classpathentry kind="lib" path="D:/avekshaa project/final/jars/websocket-servlet-9.2.5.v20141112.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
